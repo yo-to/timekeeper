@@ -6,6 +6,9 @@ Access
 http://maruta.github.io/timekeeper/  
 or you can use local copy of this repository.
 
+**上記がオリジナル**
+フォークしたものの公開用URLはこちら ⇒  https://yo-to.github.io/timekeeper/
+
 **:bangbang: Be careful to turn off screen savers and automatic screen cut :bangbang:**
 
 ### How to Save the Settings?
